@@ -11,7 +11,7 @@ public class Principal {
             System.out.println("*************************");
             System.out.println("       RECURSIVIDAD      ");
             System.out.println("*************************");
-            System.out.println("1) RATIONAL");
+            System.out.println("1) PARED ");
             System.out.println("            ");
             System.out.println("0) SALIR");
             System.out.print("Selecciona opción:");
